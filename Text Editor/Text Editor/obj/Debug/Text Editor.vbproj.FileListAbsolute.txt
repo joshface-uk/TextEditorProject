@@ -1,0 +1,12 @@
+C:\Users\Josh\source\repos\Text Editor\Text Editor\bin\Debug\Text Editor.exe.config
+C:\Users\Josh\source\repos\Text Editor\Text Editor\bin\Debug\Text Editor.exe
+C:\Users\Josh\source\repos\Text Editor\Text Editor\bin\Debug\Text Editor.pdb
+C:\Users\Josh\source\repos\Text Editor\Text Editor\bin\Debug\Text Editor.xml
+C:\Users\Josh\source\repos\Text Editor\Text Editor\obj\Debug\Text Editor.vbprojAssemblyReference.cache
+C:\Users\Josh\source\repos\Text Editor\Text Editor\obj\Debug\Text_Editor.Resources.resources
+C:\Users\Josh\source\repos\Text Editor\Text Editor\obj\Debug\Text Editor.vbproj.GenerateResource.cache
+C:\Users\Josh\source\repos\Text Editor\Text Editor\obj\Debug\Text Editor.vbproj.CoreCompileInputs.cache
+C:\Users\Josh\source\repos\Text Editor\Text Editor\obj\Debug\Text Editor.exe
+C:\Users\Josh\source\repos\Text Editor\Text Editor\obj\Debug\Text Editor.xml
+C:\Users\Josh\source\repos\Text Editor\Text Editor\obj\Debug\Text Editor.pdb
+C:\Users\Josh\source\repos\Text Editor\Text Editor\obj\Debug\Text_Editor.MainWindow.resources
